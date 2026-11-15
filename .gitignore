@@ -1,0 +1,24 @@
+## Build outputs
+bin/
+obj/
+
+## Installer build output
+installer/publish/
+installer/output/
+
+## VS / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Dev tools
+KeyChordViewer/
+
+## Docs — ignore all markdown except the README
+*.md
+!README.md
